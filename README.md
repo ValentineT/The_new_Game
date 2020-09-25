@@ -1,1 +1,1 @@
-# The_new_Game
+# Just a point-&-click game
